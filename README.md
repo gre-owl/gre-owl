@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gre-owl
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning CSS, JavaScript, React, Angular & Python
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m currently learning CSS, JavaScript, React, Angular, Python, PHP
+- 💞️ I’m looking to collaborate on full stack web development projects
 - 📫 How to reach me: kc#7065 on discord
 
 <!---
