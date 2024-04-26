@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gre-owl
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning JavaScript, React, Angular, Python, PHP
-- 💞️ I’m looking to collaborate on full stack web development projects
-- 📫 How to reach me: kc#7065 on discord
+- 💞️ I’m looking to collaborate on full stack web development projects and mobile app development.
+- 📫 How to reach me: kc7065 on discord
 
 <!---
 gre-owl/gre-owl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
