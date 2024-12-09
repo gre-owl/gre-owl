@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 🔥 <b>Stats</b> <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gre-owl)](https://git.io/streak-stats) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gre-owl&theme=dark&hide_border=true)](https://git.io/streak-stats) <br/>
